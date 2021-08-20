@@ -1,0 +1,7 @@
+jupyter
+jupytext
+pipdeptree
+when-changed
+pandas
+pandas_profiling
+scikit-learn
